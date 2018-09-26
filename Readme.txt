@@ -1,0 +1,1 @@
+mvn depenedency:tree > D:\\test.txt
